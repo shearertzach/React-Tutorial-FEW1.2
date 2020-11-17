@@ -1,0 +1,12 @@
+.Footer {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  background-color: rgb(202, 202, 202);
+  height: 35px;
+  margin-top: 40px;
+}
+
+.Footer h3 {
+  margin: 0;
+}
